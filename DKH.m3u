@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
-http://39.134.61.219/PLTV/88888888/224/3221226896/index.m3u8#http://39.134.61.219/PLTV/88888888/224/3221227090/index.m3u8
+http://39.134.61.219/PLTV/88888888/224/3221227090/index.m3u8#http://39.134.61.219/PLTV/88888888/224/3221226896/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
-http://39.134.61.219/PLTV/88888888/224/3221226843/index.m3u8#http://39.134.61.219/PLTV/88888888/224/3221226929/index.m3u8#http://39.135.135.45:80/wh7f454c46tw1847153581_1346583337/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?icpid=88888888&RTS=1554599619&from=1&hms_devid=670
+http://39.134.61.219/PLTV/88888888/224/3221226929/index.m3u8#http://39.135.135.45:80/wh7f454c46tw1847153581_1346583337/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?icpid=88888888&RTS=1554599619&from=1&hms_devid=670#http://39.134.61.219/PLTV/88888888/224/3221226843/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3
 http://39.134.136.161:6610/000000001000/5000000004000008883/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000004000008883
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4
